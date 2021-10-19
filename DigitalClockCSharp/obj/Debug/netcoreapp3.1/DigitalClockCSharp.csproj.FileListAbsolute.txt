@@ -1,0 +1,16 @@
+C:\Users\IQ1\Desktop\Papazacharias\DigitalClockCSharp\bin\Debug\netcoreapp3.1\DigitalClockCSharp.exe
+C:\Users\IQ1\Desktop\Papazacharias\DigitalClockCSharp\bin\Debug\netcoreapp3.1\DigitalClockCSharp.deps.json
+C:\Users\IQ1\Desktop\Papazacharias\DigitalClockCSharp\bin\Debug\netcoreapp3.1\DigitalClockCSharp.runtimeconfig.json
+C:\Users\IQ1\Desktop\Papazacharias\DigitalClockCSharp\bin\Debug\netcoreapp3.1\DigitalClockCSharp.runtimeconfig.dev.json
+C:\Users\IQ1\Desktop\Papazacharias\DigitalClockCSharp\bin\Debug\netcoreapp3.1\DigitalClockCSharp.dll
+C:\Users\IQ1\Desktop\Papazacharias\DigitalClockCSharp\bin\Debug\netcoreapp3.1\DigitalClockCSharp.pdb
+C:\Users\IQ1\Desktop\Papazacharias\DigitalClockCSharp\obj\Debug\netcoreapp3.1\DigitalClockCSharp.Form1.resources
+C:\Users\IQ1\Desktop\Papazacharias\DigitalClockCSharp\obj\Debug\netcoreapp3.1\DigitalClockCSharp.csproj.GenerateResource.cache
+C:\Users\IQ1\Desktop\Papazacharias\DigitalClockCSharp\obj\Debug\netcoreapp3.1\DigitalClockCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IQ1\Desktop\Papazacharias\DigitalClockCSharp\obj\Debug\netcoreapp3.1\DigitalClockCSharp.AssemblyInfoInputs.cache
+C:\Users\IQ1\Desktop\Papazacharias\DigitalClockCSharp\obj\Debug\netcoreapp3.1\DigitalClockCSharp.AssemblyInfo.cs
+C:\Users\IQ1\Desktop\Papazacharias\DigitalClockCSharp\obj\Debug\netcoreapp3.1\DigitalClockCSharp.csproj.CoreCompileInputs.cache
+C:\Users\IQ1\Desktop\Papazacharias\DigitalClockCSharp\obj\Debug\netcoreapp3.1\DigitalClockCSharp.dll
+C:\Users\IQ1\Desktop\Papazacharias\DigitalClockCSharp\obj\Debug\netcoreapp3.1\DigitalClockCSharp.pdb
+C:\Users\IQ1\Desktop\Papazacharias\DigitalClockCSharp\obj\Debug\netcoreapp3.1\DigitalClockCSharp.genruntimeconfig.cache
+C:\Users\IQ1\Desktop\Papazacharias\DigitalClockCSharp\obj\Debug\netcoreapp3.1\DigitalClockCSharp.csproj.AssemblyReference.cache
