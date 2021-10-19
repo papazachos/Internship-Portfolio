@@ -1,0 +1,14 @@
+C:\Users\IQ1\Desktop\Papazacharias\GuessingGameCSharp\bin\Debug\netcoreapp3.1\GuessingGameCSharp.exe
+C:\Users\IQ1\Desktop\Papazacharias\GuessingGameCSharp\bin\Debug\netcoreapp3.1\GuessingGameCSharp.deps.json
+C:\Users\IQ1\Desktop\Papazacharias\GuessingGameCSharp\bin\Debug\netcoreapp3.1\GuessingGameCSharp.runtimeconfig.json
+C:\Users\IQ1\Desktop\Papazacharias\GuessingGameCSharp\bin\Debug\netcoreapp3.1\GuessingGameCSharp.runtimeconfig.dev.json
+C:\Users\IQ1\Desktop\Papazacharias\GuessingGameCSharp\bin\Debug\netcoreapp3.1\GuessingGameCSharp.dll
+C:\Users\IQ1\Desktop\Papazacharias\GuessingGameCSharp\bin\Debug\netcoreapp3.1\GuessingGameCSharp.pdb
+C:\Users\IQ1\Desktop\Papazacharias\GuessingGameCSharp\obj\Debug\netcoreapp3.1\GuessingGameCSharp.csproj.AssemblyReference.cache
+C:\Users\IQ1\Desktop\Papazacharias\GuessingGameCSharp\obj\Debug\netcoreapp3.1\GuessingGameCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IQ1\Desktop\Papazacharias\GuessingGameCSharp\obj\Debug\netcoreapp3.1\GuessingGameCSharp.AssemblyInfoInputs.cache
+C:\Users\IQ1\Desktop\Papazacharias\GuessingGameCSharp\obj\Debug\netcoreapp3.1\GuessingGameCSharp.AssemblyInfo.cs
+C:\Users\IQ1\Desktop\Papazacharias\GuessingGameCSharp\obj\Debug\netcoreapp3.1\GuessingGameCSharp.csproj.CoreCompileInputs.cache
+C:\Users\IQ1\Desktop\Papazacharias\GuessingGameCSharp\obj\Debug\netcoreapp3.1\GuessingGameCSharp.dll
+C:\Users\IQ1\Desktop\Papazacharias\GuessingGameCSharp\obj\Debug\netcoreapp3.1\GuessingGameCSharp.pdb
+C:\Users\IQ1\Desktop\Papazacharias\GuessingGameCSharp\obj\Debug\netcoreapp3.1\GuessingGameCSharp.genruntimeconfig.cache
