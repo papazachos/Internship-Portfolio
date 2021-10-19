@@ -1,0 +1,16 @@
+C:\Users\IQ1\Desktop\Papazacharias\BarcodeCSharp\obj\Debug\netcoreapp3.1\BarcodeCSharp.csproj.AssemblyReference.cache
+C:\Users\IQ1\Desktop\Papazacharias\BarcodeCSharp\obj\Debug\netcoreapp3.1\BarcodeCSharp.Form1.resources
+C:\Users\IQ1\Desktop\Papazacharias\BarcodeCSharp\obj\Debug\netcoreapp3.1\BarcodeCSharp.csproj.GenerateResource.cache
+C:\Users\IQ1\Desktop\Papazacharias\BarcodeCSharp\obj\Debug\netcoreapp3.1\BarcodeCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IQ1\Desktop\Papazacharias\BarcodeCSharp\obj\Debug\netcoreapp3.1\BarcodeCSharp.AssemblyInfoInputs.cache
+C:\Users\IQ1\Desktop\Papazacharias\BarcodeCSharp\obj\Debug\netcoreapp3.1\BarcodeCSharp.AssemblyInfo.cs
+C:\Users\IQ1\Desktop\Papazacharias\BarcodeCSharp\obj\Debug\netcoreapp3.1\BarcodeCSharp.csproj.CoreCompileInputs.cache
+C:\Users\IQ1\Desktop\Papazacharias\BarcodeCSharp\bin\Debug\netcoreapp3.1\BarcodeCSharp.exe
+C:\Users\IQ1\Desktop\Papazacharias\BarcodeCSharp\bin\Debug\netcoreapp3.1\BarcodeCSharp.deps.json
+C:\Users\IQ1\Desktop\Papazacharias\BarcodeCSharp\bin\Debug\netcoreapp3.1\BarcodeCSharp.runtimeconfig.json
+C:\Users\IQ1\Desktop\Papazacharias\BarcodeCSharp\bin\Debug\netcoreapp3.1\BarcodeCSharp.runtimeconfig.dev.json
+C:\Users\IQ1\Desktop\Papazacharias\BarcodeCSharp\bin\Debug\netcoreapp3.1\BarcodeCSharp.dll
+C:\Users\IQ1\Desktop\Papazacharias\BarcodeCSharp\bin\Debug\netcoreapp3.1\BarcodeCSharp.pdb
+C:\Users\IQ1\Desktop\Papazacharias\BarcodeCSharp\obj\Debug\netcoreapp3.1\BarcodeCSharp.dll
+C:\Users\IQ1\Desktop\Papazacharias\BarcodeCSharp\obj\Debug\netcoreapp3.1\BarcodeCSharp.pdb
+C:\Users\IQ1\Desktop\Papazacharias\BarcodeCSharp\obj\Debug\netcoreapp3.1\BarcodeCSharp.genruntimeconfig.cache
