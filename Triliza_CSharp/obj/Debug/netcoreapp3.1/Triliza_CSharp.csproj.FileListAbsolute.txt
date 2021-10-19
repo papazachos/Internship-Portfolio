@@ -1,0 +1,14 @@
+C:\Users\IQ1\Desktop\Papazacharias\Triliza_CSharp\bin\Debug\netcoreapp3.1\Triliza_CSharp.exe
+C:\Users\IQ1\Desktop\Papazacharias\Triliza_CSharp\bin\Debug\netcoreapp3.1\Triliza_CSharp.deps.json
+C:\Users\IQ1\Desktop\Papazacharias\Triliza_CSharp\bin\Debug\netcoreapp3.1\Triliza_CSharp.runtimeconfig.json
+C:\Users\IQ1\Desktop\Papazacharias\Triliza_CSharp\bin\Debug\netcoreapp3.1\Triliza_CSharp.runtimeconfig.dev.json
+C:\Users\IQ1\Desktop\Papazacharias\Triliza_CSharp\bin\Debug\netcoreapp3.1\Triliza_CSharp.dll
+C:\Users\IQ1\Desktop\Papazacharias\Triliza_CSharp\bin\Debug\netcoreapp3.1\Triliza_CSharp.pdb
+C:\Users\IQ1\Desktop\Papazacharias\Triliza_CSharp\obj\Debug\netcoreapp3.1\Triliza_CSharp.csproj.AssemblyReference.cache
+C:\Users\IQ1\Desktop\Papazacharias\Triliza_CSharp\obj\Debug\netcoreapp3.1\Triliza_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IQ1\Desktop\Papazacharias\Triliza_CSharp\obj\Debug\netcoreapp3.1\Triliza_CSharp.AssemblyInfoInputs.cache
+C:\Users\IQ1\Desktop\Papazacharias\Triliza_CSharp\obj\Debug\netcoreapp3.1\Triliza_CSharp.AssemblyInfo.cs
+C:\Users\IQ1\Desktop\Papazacharias\Triliza_CSharp\obj\Debug\netcoreapp3.1\Triliza_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\IQ1\Desktop\Papazacharias\Triliza_CSharp\obj\Debug\netcoreapp3.1\Triliza_CSharp.dll
+C:\Users\IQ1\Desktop\Papazacharias\Triliza_CSharp\obj\Debug\netcoreapp3.1\Triliza_CSharp.pdb
+C:\Users\IQ1\Desktop\Papazacharias\Triliza_CSharp\obj\Debug\netcoreapp3.1\Triliza_CSharp.genruntimeconfig.cache
