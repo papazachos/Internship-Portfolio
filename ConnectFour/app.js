@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const result = document.querySelector('#result')
     const displayCurrentPlayer = document.querySelector('#current-player')
     let currentPlayer = 1
-  
+  //Drawing board and setting limits
     const winningArrays = [
       [0, 1, 2, 3],
       [41, 40, 39, 38],
@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', () => {
       [12, 19, 26, 33],
       [13, 20, 27, 34],
     ]
-  
+  //Parametrising squares 
     function checkBoard() {
       for (let y = 0; y < winningArrays.length; y++) {
         const square1 = squares[winningArrays[y][0]]
@@ -83,6 +83,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const square3 = squares[winningArrays[y][2]]
         const square4 = squares[winningArrays[y][3]]
   
+        //Checking  squares to see if they all have player's one class.
         if (
           square1.classList.contains('player-one') &&
           square2.classList.contains('player-one') &&
@@ -92,7 +93,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
           result.innerHTML = 'Player One Wins!'
         }
-        
+         //Checking  squares to see if they all have player's two class.
         if (
           square1.classList.contains('player-two') &&
           square2.classList.contains('player-two') &&
@@ -107,7 +108,7 @@ document.addEventListener('DOMContentLoaded', () => {
   
     for (let i = 0; i < squares.length; i++) {
       squares[i].onclick = () => {
-        
+        //if the square below the current square is taken, players can go ontop of it.
         if (squares[i + 7].classList.contains('taken') &&!squares[i].classList.contains('taken')) {
           if (currentPlayer == 1) {
             squares[i].classList.add('taken')
@@ -120,7 +121,7 @@ document.addEventListener('DOMContentLoaded', () => {
             currentPlayer = 1
             displayCurrentPlayer.innerHTML = currentPlayer        
           } 
-        } else alert('You cant go here')
+        } else alert('cant go here')
         checkBoard()
       }
     }
