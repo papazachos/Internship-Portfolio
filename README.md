@@ -1,1 +1,1 @@
-The follwing work
+The following work is being developed while I'm serving as a Junior Developer Intern in IQ Taxi Inc in Thessaloniki.The main goal is to make me develop a programmer's insight when it comes to overcoming an issue in the code.Also part of this work assists me,to understand the Company's vision,which makes adjustment even easier.
